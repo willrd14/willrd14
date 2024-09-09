@@ -18,8 +18,8 @@ I'm working on my own proyects<br>I am currently studying a bachelor's degree in
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 💻 Roadmap Profile
+[![roadmap.sh](https://roadmap.sh/card/tall/66df4692c46f68d0523651f0?variant=dark&roadmaps=cyber-security%2Cpython%2Clinux%2Ctypescript)](https://roadmap.sh)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=willrd14&icon=2&color=4)](https://visitcount.itsvg.in)
