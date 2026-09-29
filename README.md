@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="wilrd14_github_readme-banner_1280x640_v1" src="https://github.com/user-attachments/assets/4910ed07-abc5-4d90-9fb0-a435dd671086" />
+
 # 💫 About Me:
 I'm working on my own proyects<br>I am currently studying a bachelor's degree in computer science<br>I'm currently learning Web Development<br>I'm looking for a team working
 
