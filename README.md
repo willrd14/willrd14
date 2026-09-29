@@ -1,23 +1,51 @@
 <img width="1280" height="640" alt="wilrd14_github_readme-banner_1280x640_v1" src="https://github.com/user-attachments/assets/4910ed07-abc5-4d90-9fb0-a435dd671086" />
 
-# 💫 About Me:
-I'm working on my own proyects<br>I am currently studying a bachelor's degree in computer science<br>I'm currently learning Web Development<br>I'm looking for a team working
+<p align="center">
+  <img src="assets/banner.png" alt="Williams — Aprende. Construye. Sin pagar de más." width="100%">
+</p>
 
+# > hola, soy Williams_
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wilrd14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/williams-rafael-villavizar-hernandez-652a7b158) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/177277) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@wilrd3) 
+Estudiante de Informática en Santo Domingo, República Dominicana 🇩🇴. Construyo con IA, aprendo en público y comparto lo que descubro por el camino: herramientas, precios y proyectos reales.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=willrd14&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=willrd14&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=willrd14&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Aprende. Construye. Sin pagar de más.**
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@wilrd3)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+Busco mi primera oportunidad como **Desarrollador Frontend Jr.** *(Open to work — Frontend Developer Jr., Dominican Republic / remote)*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## En lo que ando ahora
+
+- Construyo proyectos con React y TypeScript, y los muestro funcionando, no solo el código.
+- Aprendo a trabajar con IA para programar más rápido, revisando siempre lo que genera.
+- Grabo videos cortos sobre lo que construyo, en español y con humor dominicano.
+
+## Herramientas que uso
+
+| Área | Tecnologías |
+|---|---|
+| Frontend | React, TypeScript, Vite, Tailwind CSS, HTML y CSS |
+| Backend | Node.js, Express, JWT |
+| Datos | PostgreSQL, Supabase, MySQL |
+| Pagos | Stripe, PayPal |
+| Despliegue | Docker, Docker Compose, Fly.io, Cloudflare |
+
+## Proyectos destacados
+
+| Proyecto | Qué es | Tecnologías |
+|---|---|---|
+| **[WTech Store](https://github.com/willrd14)** <!-- REEMPLAZA con el enlace del repo --> | Tienda en línea con carrito y pagos | React 19, Vite, Tailwind, Express, Supabase/PostgreSQL, PayPal, Docker, Fly.io |
+| **[Barbershop SaaS](https://github.com/willrd14)** <!-- REEMPLAZA con el enlace del repo --> | Plataforma de gestión para barberías, con autenticación y cobros | React, TypeScript, Stripe, JWT, monorepo |
+| **[Sistema de gestión de almacén](https://github.com/willrd14)** <!-- REEMPLAZA con el enlace del repo --> | Control de inventario con roles y permisos | React, Node/Express, MySQL, Docker Compose, RBAC |
+| **[Mi portafolio](https://portafolio.w-tech.uk)** | Sitio personal con modo claro y oscuro, español e inglés y CV descargable | React 19, Tailwind CSS 4, Framer Motion, Cloudflare |
+
+## Dónde encontrarme
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-portafolio.w--tech.uk-00E5FF?style=for-the-badge&labelColor=0A0C14)](https://portafolio.w-tech.uk)
+[![TikTok](https://img.shields.io/badge/TikTok-@wilrd14-FF2E93?style=for-the-badge&labelColor=0A0C14)](https://www.tiktok.com/@wilrd14)
+[![Instagram](https://img.shields.io/badge/Instagram-@wilrd14-FF2E93?style=for-the-badge&labelColor=0A0C14)](https://www.instagram.com/wilrd14)
+[![X](https://img.shields.io/badge/X-@wilrd14-00E5FF?style=for-the-badge&labelColor=0A0C14)](https://x.com/wilrd14)
+
+---
+
+<p align="center"><code>&gt; aprendo en público<span>_</span></code></p>
